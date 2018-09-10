@@ -15,10 +15,17 @@ summarizeSAC.py - This code summarizes the results of the analyzeTransects.py co
 Data download links:
 
 Amphibians - http://api.gbif.org/v1/occurrence/download/request/0011811-180412121330197.zip
+
 Arthropods - http://api.gbif.org/v1/occurrence/download/request/0011802-180412121330197.zip
+
 Fungi - http://api.gbif.org/v1/occurrence/download/request/0011799-180412121330197.zip
+
 Plants - http://api.gbif.org/v1/occurrence/download/request/0011797-180412121330197.zip
+
 Reptiles - http://api.gbif.org/v1/occurrence/download/request/0011815-180412121330197.zip
+
 Mammals - http://api.gbif.org/v1/occurrence/download/request/0011818-180412121330197.zip
+
 Birds - http://api.gbif.org/v1/occurrence/download/request/0011822-180412121330197.zip
+
 
