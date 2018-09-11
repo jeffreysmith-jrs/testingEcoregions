@@ -9,17 +9,17 @@ In order to run the code for Smith et al. (2018) you should first run codes 1 an
 ----------------
 File descriptions:
 
-- 1. cleaningGBIF.py - This code takes raw input files from www.gbif.org and processes them into a csv containing the x and y pixel values of a specified basemap ascii and the species name.
+- Code 1. cleaningGBIF.py - This code takes raw input files from www.gbif.org and processes them into a csv containing the x and y pixel values of a specified basemap ascii and the species name.
 
-- 2. makeTransects.py - This code takes the cleaned GBIF file from the above code and generates random transects around the globe following the methods laid out in Smith et al. (2018)
+- Code 2. makeTransects.py - This code takes the cleaned GBIF file from the above code and generates random transects around the globe following the methods laid out in Smith et al. (2018)
 
-- 3a. sacTest.py - This code performs the species area accumulation curve test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
+- Code 3a. sacTest.py - This code performs the species area accumulation curve test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
 
-- 3b. ddmTest.py - This code performs the distance-similarity matrix test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
+- Code 3b. ddmTest.py - This code performs the distance-similarity matrix test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
 
-- 4a. summarizeSAC.py - This code summarizes the results of the sacTest.py code, allowing for the user to modify data quality control 
+- Code 4a. summarizeSAC.py - This code summarizes the results of the sacTest.py code, allowing for the user to modify data quality control 
 
-- 4b. summarizeDDM.py - This code summarizes the results of the ddmTest.py code, allowing for the user to modify data quality control 
+- Code 4b. summarizeDDM.py - This code summarizes the results of the ddmTest.py code, allowing for the user to modify data quality control 
 
 ----------------
 Data download links:
