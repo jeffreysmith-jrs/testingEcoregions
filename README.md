@@ -13,13 +13,13 @@ File descriptions:
 
   2. makeTransects.py - This code takes the cleaned GBIF file from the above code and generates random transects around the globe following the methods laid out in Smith et al. (2018)
 
-  3a. sacTest.py - This code performs the species area accumulation curve test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
+  3. (a) sacTest.py - This code performs the species area accumulation curve test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
 
-  3b. ddmTest.py - This code performs the distance-similarity matrix test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
+  3. (b) ddmTest.py - This code performs the distance-similarity matrix test described in Smith et al. (2018), relying on the inputs generated from the makeTransects.py code
 
-  4a. summarizeSAC.py - This code summarizes the results of the sacTest.py code, allowing for the user to modify data quality control 
+  4. (a) summarizeSAC.py - This code summarizes the results of the sacTest.py code, allowing for the user to modify data quality control 
 
-  4b. summarizeDDM.py - This code summarizes the results of the ddmTest.py code, allowing for the user to modify data quality control 
+  4. (b) summarizeDDM.py - This code summarizes the results of the ddmTest.py code, allowing for the user to modify data quality control 
 
 ----------------
 Data download links:
