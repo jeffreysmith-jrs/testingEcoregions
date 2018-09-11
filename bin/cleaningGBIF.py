@@ -136,5 +136,3 @@ def cleanGBIF(directory, toSave):
 	pathToSave		=	str(directory + toSave)
 	toKeep.to_csv(pathToSave, sep = ',', index = False)
 
-cleanGBIF('/scratch/PI/gdaily/Jeff/GIS_Layers/GBIF/Birds/', 'cleaned_no_precision.csv')
-
